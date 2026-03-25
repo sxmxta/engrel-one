@@ -1,3 +1,3 @@
-module github.com/energye/engone
+module github.com/energye/engrel-one
 
 go 1.20
