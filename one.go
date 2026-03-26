@@ -1,5 +1,7 @@
 package engrel_one
 
-func EngOneFunc() {
+import "fmt"
 
+func EngOneFunc() {
+	fmt.Println("EngOneFunc")
 }
